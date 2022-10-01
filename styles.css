@@ -1,0 +1,13 @@
+.outputs{
+    border-style: solid;
+    min-height: 3rem;
+    width: 80%;
+    margin:4rem;
+}
+
+.inputs{border-style: solid;
+    min-height: 3rem;
+    width: 80%;
+    margin:4rem;
+}
+
