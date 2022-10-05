@@ -1,18 +1,18 @@
 body{
-    background-color: #fff1f2;
+    background-color: black;
 }
 
 .header{
     text-align: center;
     height:6rem;
      border: 0.1rem double;
-    border-color:#be123c;
+    border-color:#ffe873;
     border-radius: 0.5rem;
     
 }
 
 h1{
-    color: #be123c;
+    color:#ffe873;
     text-align: center;
 }
 
@@ -26,8 +26,11 @@ h1{
    
     height: 4rem;
     width: 80%;
-    border: 1.5px solid #be123c;
+    border: 1.5px solid #ffe873;
     border-radius:0.5rem ;
+    
+    background-color: black;
+   color: #ffe873;
     
 }
 .buttonBox{
@@ -36,10 +39,10 @@ h1{
 
 .buttons{
     
-        background-color: #be123c;
+        background-color: black;
         border-radius: 0.5rem ;
-        border-color: white;
-        color:white;
+        border-color: #ffe873;
+        color:#ffe873;
         text-decoration: none;
         padding:0.5rem 1rem;
         margin-bottom: 4rem;
@@ -51,8 +54,8 @@ h1{
    
     
     margin:4rem;
-
-    border:1px solid #be123c;
+color: #ffe873;
+    border:1px solid #ffe873;
     height:3.2rem;
     width:60%;
     margin:auto;
@@ -62,9 +65,10 @@ h1{
 
 
 .footer{
-    color:#be123c;
-    border:2px solid #be123c;
+    color:#ffe873;
+    border:2px solid #ffe873;
     border-radius: 1rem;
     margin-top: 4rem;
+    text-align: center;
     
 }
